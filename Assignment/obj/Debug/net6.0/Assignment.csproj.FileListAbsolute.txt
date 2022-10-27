@@ -1,0 +1,15 @@
+D:\studying\Advanced programming\lab\Assignment\Assignment\bin\Debug\net6.0\Assignment.exe
+D:\studying\Advanced programming\lab\Assignment\Assignment\bin\Debug\net6.0\Assignment.deps.json
+D:\studying\Advanced programming\lab\Assignment\Assignment\bin\Debug\net6.0\Assignment.runtimeconfig.json
+D:\studying\Advanced programming\lab\Assignment\Assignment\bin\Debug\net6.0\Assignment.dll
+D:\studying\Advanced programming\lab\Assignment\Assignment\bin\Debug\net6.0\Assignment.pdb
+D:\studying\Advanced programming\lab\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.AssemblyReference.cache
+D:\studying\Advanced programming\lab\Assignment\Assignment\obj\Debug\net6.0\Assignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\studying\Advanced programming\lab\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfoInputs.cache
+D:\studying\Advanced programming\lab\Assignment\Assignment\obj\Debug\net6.0\Assignment.AssemblyInfo.cs
+D:\studying\Advanced programming\lab\Assignment\Assignment\obj\Debug\net6.0\Assignment.csproj.CoreCompileInputs.cache
+D:\studying\Advanced programming\lab\Assignment\Assignment\obj\Debug\net6.0\Assignment.dll
+D:\studying\Advanced programming\lab\Assignment\Assignment\obj\Debug\net6.0\refint\Assignment.dll
+D:\studying\Advanced programming\lab\Assignment\Assignment\obj\Debug\net6.0\Assignment.pdb
+D:\studying\Advanced programming\lab\Assignment\Assignment\obj\Debug\net6.0\Assignment.genruntimeconfig.cache
+D:\studying\Advanced programming\lab\Assignment\Assignment\obj\Debug\net6.0\ref\Assignment.dll
